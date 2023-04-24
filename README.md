@@ -25,7 +25,7 @@ Sample Application Screenshot
 
 ![quick ai](https://user-images.githubusercontent.com/60540953/234038809-628150f9-1af8-4a1f-bfa6-d36a9121d2fa.jpg)
 
-![encyco](https://user-images.git![stat](https://user-images.githubusercontent.com/60540953/234038920-4db652b2-9f67-4260-a288-5aaceba45362.jpg)
+![encyco](https://user-images.githubusercontent.com/60540953/234039872-a8751af0-4f0b-4408-93d4-c7bfd9356327.jpg)
 
 ![stat](https://user-images.githubusercontent.com/60540953/234038968-0434235b-dd0d-4171-9149-41ad5bc0e1c1.jpg)
 
