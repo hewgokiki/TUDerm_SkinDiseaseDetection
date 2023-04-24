@@ -15,6 +15,7 @@ The DermNet dataset was used to train the Deep Learning algorithms in TU Derm. T
 Source: (https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
 
 ##Screenshot
+Sample Application Screenshot 
 
 ![main](https://user-images.githubusercontent.com/60540953/234038661-c7c4218f-2cc3-4343-82dc-3349466cb949.jpg)
 
