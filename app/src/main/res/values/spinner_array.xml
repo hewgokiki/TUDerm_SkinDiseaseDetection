@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spin_sort_array">
+        <item>เรียงตามวันที่เพิ่มข้อมูลล่าสุด</item>
+        <item>เรียงตามอักษรบนชื่อผูัป่วย</item>
+    </string-array>
+</resources>

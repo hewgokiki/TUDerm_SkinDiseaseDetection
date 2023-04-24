@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246565764356",
+    "project_id": "tu-derm",
+    "storage_bucket": "tu-derm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246565764356:android:4f6f51ffec291b30ada451",
+        "android_client_info": {
+          "package_name": "com.example.tuderm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246565764356-qjbjv1ek5pu0e37lqa1vj7brrhadalv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA2o4K-JePw-L0EMZBrxk4kYiUFdNrKlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246565764356-qjbjv1ek5pu0e37lqa1vj7brrhadalv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
