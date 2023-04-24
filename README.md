@@ -10,11 +10,11 @@ TU Derm has several key features that make it a powerful tool in the field of de
 2. Patient management system: TU Derm features a patient management system that allows users to keep track of patient data and treatment information. This feature enables users to easily manage patient records, including medical history, method of treatment, and image of skin diseases
 3. Import/export app data: TU Derm allows users to import and export data to and from the app. This feature allows medical professionals to easily transfer patient data and treatment information between different devices or applications.
 
-##Dataset Source
+## Dataset Source
 The DermNet dataset was used to train the Deep Learning algorithms in TU Derm. The dataset consists of over 23,000 dermatology images of various skin conditions, including acne, eczema, and psoriasis, among others.
 Source: (https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
 
-##Screenshot
+## Screenshot
 Sample Application Screenshot 
 
 ![main](https://user-images.githubusercontent.com/60540953/234038661-c7c4218f-2cc3-4343-82dc-3349466cb949.jpg)
