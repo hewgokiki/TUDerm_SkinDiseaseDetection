@@ -2,6 +2,8 @@
 
 TU Derm is a mobile application designed to analyze skin diseases based on artificial intelligence. The application uses machine learning algorithms to identify skin conditions and provide accurate diagnoses. The primary users of the app are medical professionals who can use the app to aid in their diagnosis of skin conditions. Additionally, the app features a patient management system, allowing users to add patient data and treatment information. This feature enables medical professionals to keep track of patient progress and treatment plans. Overall, TU Derm is a comprehensive tool for medical professionals in the field of dermatology.
 
+video  presentation : https://www.youtube.com/watch?v=4j_s4KSoagU&ab_channel=hewzzzb.
+
 ![Untitled design (2)](https://user-images.githubusercontent.com/60540953/234035211-288cfc06-1dc7-4ced-ad66-430b15906dfa.png)
 
 ## Features
